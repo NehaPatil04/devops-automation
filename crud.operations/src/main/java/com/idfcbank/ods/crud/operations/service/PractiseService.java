@@ -53,7 +53,7 @@ import java.util.stream.Collectors;
 public class PractiseService
 {
     public String message(String name){
-        return "Hiiiii " + name;
+        return "Hello " + name;
     }
 
     public  String bye(String name){
